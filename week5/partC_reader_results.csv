@@ -1,0 +1,6 @@
+reader_id,map_a_three,map_b_three,overlap_count
+1,Dunmere | Pellbrook | Grimsby,Dunmere | Pellbrook | Grimsby,3
+2,Dunmere | Pellbrook | Grimsby,Dunmere | Pellbrook | Grimsby,3
+3,Dunmere | Pellbrook | Grimsby,Hollowfield | Netherby | Elmsworth,0
+4,Hollowfield | Netherby | Elmsworth,Hollowfield | Netherby | Elmsworth,3
+5,Hollowfield | Netherby | Elmsworth,Hollowfield | Netherby | Elmsworth,3
